@@ -1,0 +1,21 @@
+{
+  "name": "amoledblack",
+  "displayName": "AMOLEDBlack",
+  "description": "m",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AMOLED Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AMOLED Black-color-theme.json"
+      }
+    ]
+  }
+}
