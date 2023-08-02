@@ -2,7 +2,9 @@
   "name": "amoledblack",
   "displayName": "AMOLEDBlack",
   "description": "m",
-  "version": "0.0.1",
+  "publisher": "Meta4245",
+  "version": "0.0.2",
+  "repository": "https://www.github.com/Meta4245/amoledblack",
   "engines": {
     "vscode": "^1.80.0"
   },
