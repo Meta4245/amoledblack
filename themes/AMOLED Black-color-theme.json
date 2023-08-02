@@ -792,7 +792,6 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#61afef"
       }
     },
@@ -800,7 +799,6 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#d19a66"
       }
     },
@@ -1877,7 +1875,7 @@
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
-    "statusBar.background": "#0e1113",
+    "statusBar.background": "#000000",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingForeground": "#ffffff",
@@ -2017,7 +2015,7 @@
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#3794ff",
     "debugToolBar.background": "#000000",
-    "debugToolBar.border": "#1b1b1b",
+    "debugToolBar.border": "#2e2e2e",
     "notifications.foreground": "#E7E7E7",
     "notifications.background": "#000000",
     "notificationToast.border": "#2e2e2e",
